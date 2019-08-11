@@ -116,5 +116,15 @@ www.moat.com
 
 ############## SPUTIFYYY. - ADS - 2 ENDS	
 
+##YOUTUBE
+com.google.android.gms.ads.mediation.
+google.android.gms.ads.mediation.com
+https://developers.google.com/admob/android/mediation
+com.google.firebase.analytics.
+com.google.android.gms.measurement.
+firebase\.com
+google.firebase.analytics.com
+google.android.gms.measurement.com
+firebase.com
 #
 #
