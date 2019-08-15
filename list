@@ -1,8 +1,15 @@
-
+#
+#127.0.0.1 localhost #IPv4 localhost
+#::1 localhost #IPv6 localhost
+##
 ######## PERSONAL BLOCK LIST
 paywall.folha.uol.com.br
 https://acesso.estadao.com.br/paywall/v2/js/pw.js
+#
+#
 ###### WIRED
+#
+#
 #### 8 BALL POOL
 adcolony.com
 launch.adcolony.com
@@ -44,6 +51,9 @@ cdn-highwinds.unityads.unity3d.com
 config.unityads.unity3d.com
 webview.unityads.unity3d.com
 #### 8 BALL POOL ENDS
+#
+#
+#
 ############## WSL - ADS - 
 facebook.ads.com
 facebook.appevents.com
@@ -56,3 +66,79 @@ mopub.mobileads.com
 mopub\.com
 mopub.com
 ############## WSL - ADS - ENDS
+#
+ ############## SPUTIFYYY. - ADS - 2
+ adjust.sdk.com
+ adjust\.com
+ adjust.com
+adj\.st
+adj.st
+adj.st.com
+com.comscore.
+comscore\.com
+comscore.com
+facebook.share.com
+google.android.gms.ads.mediation.com
+mng-ads\.com
+mng-ads.com
+doubleclick\.net
+doubleclick.net
+doubleclick\.com
+doubleclick.com
+2mdn\.net
+2mdn.net
+dmtry\.com
+dmtry.com
+https://www.doubleclickbygoogle.com
+com.moat.analytics.mobile.
+moat.analytics.mobile.com
+moat\.com
+moat.com
+www. adjust.sdk.com
+www.adjust\.com
+www.adjust.com
+www.adj\.st
+www.adj.st
+www.adj.st.com
+www.com.comscore.
+www.comscore\.com
+www.comscore.com
+www.facebook.share.com
+www.google.android.gms.ads.mediation.com
+www.mng-ads\.com
+www.mng-ads.com
+vdoubleclick\.net
+www.doubleclick.net
+www.doubleclick\.com
+www.doubleclick.com
+www.2mdn\.net
+www.2mdn.net
+www.dmtry\.com
+www.dmtry.com
+https://www.doubleclickbygoogle.com
+www.com.moat.analytics.mobile.
+www.moat.analytics.mobile.com
+www.moat\.com
+www.moat.com
+#
+############## SPUTIFYYY. - ADS - 2 ENDS	
+#
+#
+##YOUTUBE
+com.google.android.gms.ads.mediation.
+google.android.gms.ads.mediation.com
+https://developers.google.com/admob/android/mediation
+com.google.firebase.analytics.
+com.google.android.gms.measurement.
+firebase\.com
+google.firebase.analytics.com
+google.android.gms.measurement.com
+firebase.com
+manifest.googlevideo.com
+cache.google.com
+www.manifest.googlevideo.com
+#
+#
+#
+#
+#
