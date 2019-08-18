@@ -163,9 +163,9 @@ firebase\.com
 google.firebase.analytics.com
 google.android.gms.measurement.com
 firebase.com
-manifest.googlevideo.com
+#manifest.googlevideo.com
 cache.google.com
-www.manifest.googlevideo.com
+#www.manifest.googlevideo.com
 googleads.g.doubleclick.net
 static.doubleclick.net
 www.googleads.g.doubleclick.net
