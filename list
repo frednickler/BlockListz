@@ -9,13 +9,14 @@ https://acesso.estadao.com.br/paywall/v2/js/pw.js
 #
 ###### WIRED
 
-www.wired.com##.expand-content__collapsed.expand-content
-www.wired.com##.expandable-growler-wrapper__collapsed.expandable-growler-wrapper
-www.wired.com##.paywall-container-component--growler.paywall-container-component
-www.wired.com##.paywall-modal__overlay
-www.wired.com##.paywall-bar--entry.paywall-bar__wrapper
-www.wired.com##.modal-overlay
+.expand-content__collapsed.expand-content
+.expandable-growler-wrapper__collapsed.expandable-growler-wrapper
+.paywall-container-component--growler.paywall-container-component
+.paywall-modal__overlay
+.paywall-bar--entry.paywall-bar__wrapper
+.modal-overlay
 
+subscribe.wired.com
 #
 		
 		
